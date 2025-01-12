@@ -1,0 +1,1 @@
+Designed an algorithm that assigns shorter binary codes to more frequent symbols. It constructs a Huffman Tree using a priority queue. Traversing this tree generates unique minimal-length binary codes for each symbol. It minimizes the average code length while ensuring unambiguous decoding, making it essential for formats like ZIP
